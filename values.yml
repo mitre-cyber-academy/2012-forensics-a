@@ -1,0 +1,10 @@
+name: "(No Subject)"
+description: |
+  Hey Jon,
+  
+  Here is the [MITRE logo](http://$static_file_server/fa-4b202ad68fce4d82b19a597df8cd5842/MITRE.png) we would like to you <span style="color:red;">use</span> for the capture-the-flag event.
+  
+  MITRE Public Relations
+  
+  MD5: 8be24dc74455ac7fd78d56bc4cd667fd
+flag: "MCA-1ACCEBAB"
